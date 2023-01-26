@@ -43,7 +43,7 @@ const mainConfig = {
         removeInterestTopic: !1,
         removeInterestUser: !0,
         removeLvZhou: !0,
-        removeSearchWindow: !0,
+        removeSearchWindow: !1,
         profileSkin1: null,
         profileSkin2: null,
         tabIconVersion: 0,
